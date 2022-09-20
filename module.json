@@ -1,12 +1,12 @@
 {
   "title": "Expanse Gear Pack",
-  "description": "Equipment for PCs and NPCs from the Expanse books and TV show for use in Foundry VTT with the AGE System (unofficial)",
+  "description": "Equipment for PCs and NPCs from the Expanse books and TV show for use in Foundry VTT with the Expanse System, forked from schlosrat version",
   "version": "0.1.0",
-  "url": "https://github.com/schlosrat/expanse-gear-pack",
-  "manifest": "https://raw.githubusercontent.com/schlosrat/expanse-gear-pack/master/module.json",
-  "download": "https://github.com/schlosrat/expanse-gear-pack/archive/refs/tags/0.1.0.zip",
-  "changelog": "https://github.com/schlosrat/expanse-gear-pack/blob/master/CHANGELOG.md",
-  "readme": "https://github.com/schlosrat/expanse-gear-pack/blob/master/README.md",
+  "url": "https://github.com/kbresin/expanse-gear-pack",
+  "manifest": "https://raw.githubusercontent.com/kbresin/expanse-gear-pack/master/module.json",
+  "download": "https://github.com/kbresin/expanse-gear-pack/archive/refs/tags/0.1.0.zip",
+  "changelog": "https://github.com/kbresin/expanse-gear-pack/blob/master/CHANGELOG.md",
+  "readme": "https://github.com/kbresin/expanse-gear-pack/blob/master/README.md",
   "scripts": [
     "scripts/scene-packer.js"
   ],

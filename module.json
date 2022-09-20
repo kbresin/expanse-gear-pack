@@ -1,4 +1,5 @@
 {
+  "name": "Expanse Gear Pack (Unofficial)",
   "title": "Expanse Gear Pack",
   "description": "Equipment for PCs and NPCs from the Expanse books and TV show for use in Foundry VTT with the Expanse System, forked from schlosrat version",
   "version": "0.1.0",
@@ -14,11 +15,12 @@
     {
       "name": "armor",
       "label": "Armor",
+      "entity": "Item",
       "path": "packs/armor.db",
       "type": "Item",
       "private": false,
       "system": "expanse",
-      "flags": {}
+      "tags": [ "armor" ]
     },
     {
       "name": "explosives",
@@ -26,8 +28,7 @@
       "path": "packs/explosives.db",
       "type": "Item",
       "private": false,
-      "system": "expanse",
-      "flags": {}
+      "system": "expanse"
     },
     {
       "name": "melee",
@@ -36,7 +37,7 @@
       "type": "Item",
       "private": false,
       "system": "expanse",
-      "flags": {}
+      "tags": [ "weapons" ]
     },
     {
       "name": "pistols",
@@ -45,7 +46,7 @@
       "type": "Item",
       "private": false,
       "system": "expanse",
-      "flags": {}
+      "tags": [ "weapons" ]
     },
     {
       "name": "rifles",
@@ -54,7 +55,7 @@
       "type": "Item",
       "private": false,
       "system": "expanse",
-      "flags": {}
+      "tags": [ "weapons" ]
     },
     {
       "name": "shotguns",
@@ -63,7 +64,7 @@
       "type": "Item",
       "private": false,
       "system": "expanse",
-      "flags": {}
+      "tags": [ "weapons" ]
     },
     {
       "name": "tools",
@@ -71,8 +72,7 @@
       "path": "packs/tools.db",
       "type": "Item",
       "private": false,
-      "system": "expanse",
-      "flags": {}
+      "system": "expanse"
     }
   ],
   "id": "expanse-gear-pack",
@@ -103,6 +103,6 @@
   },
   "compatibility": {
     "minimum": "0.6.0",
-    "verified": "9"
+    "verified": "9.9.9"
   }
 }

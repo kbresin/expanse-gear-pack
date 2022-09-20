@@ -97,13 +97,8 @@
         "compatibility": {}
       }
     ],
-    "systems": [
-      {
-        "id": "age-system",
-        "type": "system",
-        "manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
-        "compatibility": {}
-      }
+    "system": [
+      "expanse"
     ]
   },
   "compatibility": {

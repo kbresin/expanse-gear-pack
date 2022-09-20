@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "url": "https://github.com/kbresin/expanse-gear-pack",
   "manifest": "https://raw.githubusercontent.com/kbresin/expanse-gear-pack/master/module.json",
-  "download": "https://github.com/kbresin/expanse-gear-pack/archive/refs/tags/0.1.0.zip",
+  "download": "https://github.com/kbresin/expanse-gear-pack/archive/refs/heads/main.zip",
   "changelog": "https://github.com/kbresin/expanse-gear-pack/blob/master/CHANGELOG.md",
   "readme": "https://github.com/kbresin/expanse-gear-pack/blob/master/README.md",
   "scripts": [
